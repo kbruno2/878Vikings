@@ -1,5 +1,5 @@
 # 878Vikings 
-
+![Logo](https://github.com/kbruno2/878Vikings/blob/master/logo.jpg)
 # If you have any more ideas, post them in the thread in the group. 
 
 # Battle Mechanics:
