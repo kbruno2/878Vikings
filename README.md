@@ -1,4 +1,7 @@
-# 878Vikings If you have any more ideas, post them in the thread in the group. 
+# 878Vikings 
+
+# If you have any more ideas, post them in the thread in the group. 
+
 # Battle Mechanics:
 Create the dice roll mechanic for each troop using an ArrayList ()
 
