@@ -27,6 +27,8 @@ Make sure winning conditions can be achieved and they work properly ()
 
 Have default positions for the English troops if a new game is started. ()
 
+# Graphics
+Make all the graphics for the game. ()
 
 # Misc.
 A functional save system to save any progress, as well as autosave after every round. ()
